@@ -36,4 +36,8 @@ mvn clean install
 
 Note: To omit rate limits, it is possible to use a Bearer token in API calls; nevertheless, it's not yet implemented. For more information on GitHub's rate limiting, please refer to the GitHub Developer documentation.
 
+Project short description:
+
+Project exposes one endpoint: "/repos/all/{username}", taking username for which it will list all gh repositories, given the name exists.
+
 
