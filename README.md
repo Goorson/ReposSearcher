@@ -7,7 +7,7 @@ Prerequisites:
 JDK 11 or newer,
 Git,
 Maven,
-GitHub CLI,
+GitHub CLI
 
 Setting Up the Project
 
