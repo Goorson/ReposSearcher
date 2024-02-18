@@ -48,6 +48,18 @@
     ]
   },
   {
+    "repositoryName": "ReposSearcher",
+    "ownerLogin": "Goorson",
+    "branches": [
+      {
+        "name": "main",
+        "commit": {
+          "sha": "57735e749eab8f19198ebd9a2fad4bb8557887b6"
+        }
+      }
+    ]
+  },
+  {
     "repositoryName": "TicTacToe",
     "ownerLogin": "Goorson",
     "branches": [

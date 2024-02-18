@@ -67,24 +67,9 @@
 			<version>2.3.8</version>
 		</dependency>
 		<dependency>
-			<groupId>io.ktor</groupId>
-			<artifactId>ktor-client-mock-jvm</artifactId>
-			<version>2.3.8</version>
-		</dependency>
-		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.jetbrains.kotlinx</groupId>
-			<artifactId>kotlinx-coroutines-test</artifactId>
-			<version>1.6.0</version>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.reactivestreams</groupId>
-			<artifactId>reactive-streams</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.jetbrains.kotlinx</groupId>
